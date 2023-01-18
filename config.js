@@ -33,7 +33,7 @@ const CONFIG = {
 
 	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
 	defaultLatitude: '47.377818105108275',
-	defaultLongitude: '8.540382466157178'',
+	defaultLongitude: '8.540382466157178',
 
 	// Autochange
 	autoChangeTheme: true,
