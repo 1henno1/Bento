@@ -139,8 +139,8 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Lofi',
+					link: 'https://youtu.be/jfKfPfyJRdk',
 				},
 				{
 					name: 'Classic',
@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
+					name: 'WhatsApp',
+					link: 'https://web.whatsapp.com',
+				},
+				{
+					name: 'Reddit',
+					link: 'https://www.reddit.com',
+				},
+				{
+					name: 'Mastodon',
+					link: 'https://elk.zone',
+				},
+				{
 					name: 'Linkedin',
 					link: 'https://www.linkedin.com',
-				},
-				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
-				},
-				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
-				},
-				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
 				},
 			],
 		},
