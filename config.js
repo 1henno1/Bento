@@ -49,6 +49,8 @@ const CONFIG = {
 	// ┌┐ ┬ ┬┌┬┐┌┬┐┌─┐┌┐┌┌─┐
 	// ├┴┐│ │ │  │ │ ││││└─┐
 	// └─┘└─┘ ┴  ┴ └─┘┘└┘└─┘
+	
+	// List of icons: https://lucide.dev/
 
 	firstButtonsContainer: [
 		{
