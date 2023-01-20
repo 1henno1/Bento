@@ -72,13 +72,13 @@ const CONFIG = {
 		{
 			id: '4',
 			name: 'Google Drive',
-			icon: 'google-drive',
-			link: 'https://web.whatsapp.com',
+			icon: 'triangle',
+			link: 'https://drive.google.com',
 		},
 		{
 			id: '5',
 			name: 'OneDrive',
-			icon: 'microsoft',
+			icon: 'square',
 			link: 'https://live.onedrive.com',
 		},
 		{
