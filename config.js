@@ -67,9 +67,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Research Group',
-			icon: 'graduation-cap',
-			link: 'https://bionmr.ethz.ch',
+			name: 'OneDrive',
+			icon: 'square',
+			link: 'https://live.onedrive.com',
 		},
 		{
 			id: '4',
@@ -79,9 +79,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'OneDrive',
-			icon: 'square',
-			link: 'https://live.onedrive.com',
+			name: 'Research Group',
+			icon: 'graduation-cap',
+			link: 'https://bionmr.ethz.ch',
 		},
 		{
 			id: '6',
